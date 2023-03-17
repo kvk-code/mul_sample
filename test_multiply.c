@@ -16,6 +16,6 @@ void test_multiply() {
 }
 
 int main() {
-    test_multiply();
-    return 0;
+   return test_multiply();
+    
 }
